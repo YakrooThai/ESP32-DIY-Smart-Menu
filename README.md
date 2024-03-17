@@ -6,7 +6,7 @@ DESCRIPTION
 
 ![ed171232-e493-4be1-b741-e7e222ffc51c](https://github.com/YakrooThai/ESP32-DIY-Smart-Menu/assets/56666070/c53a6ee6-ee5a-4dcd-a833-fe76227724e7)
 
-https://www.youtube.com/shorts/44LbvM75SZQ
+https://www.youtube.com/watch?v=44LbvM75SZQ
 
 
 Key Features:
