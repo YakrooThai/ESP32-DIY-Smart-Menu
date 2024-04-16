@@ -6,6 +6,11 @@ DESCRIPTION
 
 ![Untitled (13)](https://github.com/YakrooThai/ESP32-DIY-Smart-Menu/assets/56666070/472acc74-f3a0-459b-9dc1-1933d2fe7136)
 
+![sm2](https://github.com/YakrooThai/ESP32-DIY-Smart-Menu/assets/56666070/297106ce-4bfe-41a5-9c48-8e4a2ea0ff07)
+
+
+https://www.youtube.com/shorts/NoQeycaoPKU
+
 
 ![ed171232-e493-4be1-b741-e7e222ffc51c](https://github.com/YakrooThai/ESP32-DIY-Smart-Menu/assets/56666070/c53a6ee6-ee5a-4dcd-a833-fe76227724e7)
 
